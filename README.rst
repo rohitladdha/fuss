@@ -28,7 +28,7 @@ an easy way for the same.
 Installation
 ------------
 
-To install Requests, simply:
+To install fuss, simply:
 
 .. code-block:: bash
 
@@ -36,5 +36,5 @@ To install Requests, simply:
     ✨🍰✨
 
 .. _`the repository`: http://github.com/rohitladdha/fuss
-.. _AUTHORS: https://github.com/rohitladdha/requests/blob/master/AUTHORS.rst
-.. _Contributor Friendly: https://github.com/rohitladdha/requests/issues?direction=desc&labels=Contributor+Friendly&page=1&sort=updated&state=open
+.. _AUTHORS: https://github.com/rohitladdha/fuss/blob/master/AUTHORS.rst
+.. _Contributor Friendly: https://github.com/rohitladdha/fuss/issues?direction=desc&labels=Contributor+Friendly&page=1&sort=updated&state=open
