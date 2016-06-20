@@ -12,3 +12,4 @@ __author__ = 'Rohit Laddha'
 __copyright__ = 'Copyright 2016 Rohit Laddha'
 
 from .decorator import measure
+from .benchmark import benchmark
